@@ -1,14 +1,11 @@
 #       Hello World!
 Hi, I'm Guilherme Dias Cavalheri 👋
 
-- 👨‍💻 Born in Brazil
-- 🪧 (Portuguese-BR) (English)
-- 💻 Languages: HTML, CSS, JavaScript, C, Assembly x86, Java
-- 🎓 I’m currently a Computer Engineering Student at PUC-Campinas.
-
----
-
 ## 👤 Player Info
+
+👨‍💻  Born in Brazil
+
+🪧 (Portuguese-BR) (English)
 
 🎓 Classe: Estudante de Engenharia da Computação (4º semestre - PUC Campinas)
 
