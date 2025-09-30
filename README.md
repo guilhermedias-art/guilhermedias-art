@@ -9,6 +9,8 @@ Hi, I'm Guilherme Dias Cavalheri 👋
 ---
 
 🎓 Estudante de Engenharia da Computação na PUC-Campinas (4º semestre).
+---
+
 💻 Desenvolvedor focado em sistemas web, com experiência em HTML, CSS, JavaScript e integração de tecnologias modernas.
 
 ## 📌 Projects
