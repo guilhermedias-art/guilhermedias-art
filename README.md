@@ -45,6 +45,13 @@ Hi, I'm Guilherme Dias Cavalheri 👋
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=none&logoColor=white)
 
+
+
+🔧 HTML | 🎨 CSS | ⚡ JavaScript  
+🐍 Python | ☕ Java | 💾 C  
+⚙️ Assembly | 🔬 VHDL
+
+
 ---
 
 ### How to reach me? 📫
