@@ -9,7 +9,7 @@ Hi, I'm Guilherme Dias Cavalheri 👋
 
 🎓 Classe: Estudante de Engenharia da Computação (4º semestre - PUC Campinas)
 
-💻 Habilidades: HTML | CSS | JavaScript | Python | Java | C | Assembly | VHDL | Python
+💻 Habilidades: HTML | CSS | JavaScript | Python | Java | C | Assembly | VHDL | Python | PostegreSQL
 
 🏆 Missão Atual: Evoluir como Dev Full Stack e criar sistemas web eficientes
 
@@ -22,6 +22,9 @@ Hi, I'm Guilherme Dias Cavalheri 👋
   
 - [🔗 **Loja de Tênis**](https://github.com/felipe-canta/Projeto_Site_PI)  
   🛍️ Projeto acadêmico de e-commerce com HTML, CSS e JavaScript.
+
+- [🔗 **FLappy Bird em Java**](https://github.com/guilhermedias-art/FLAPPY-BIRD)
+- 🎮 Simulação de jogo Flappy Bird na linguagem JAVA 
 
 ---
 
@@ -51,7 +54,7 @@ Hi, I'm Guilherme Dias Cavalheri 👋
 
 🔧 HTML | 🎨 CSS | ⚡ JavaScript  
 🐍 Python | ☕ Java | 💾 C  
-⚙️ Assembly | 🔬 VHDL
+⚙️ Assembly | 🔬 VHDL  
 
 
 ---
