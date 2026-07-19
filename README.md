@@ -24,7 +24,7 @@ Hi, I'm Guilherme Dias Cavalheri 👋
   🛍️ Projeto acadêmico de e-commerce com HTML, CSS e JavaScript.
 
 - [🔗 **FLappy Bird em Java**](https://github.com/guilhermedias-art/FLAPPY-BIRD)
-- 🎮 Simulação de jogo Flappy Bird na linguagem JAVA 
+  🎮 Simulação de jogo Flappy Bird na linguagem JAVA 
 
 ---
 
