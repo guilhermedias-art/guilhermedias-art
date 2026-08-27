@@ -7,9 +7,9 @@ Hi, I'm Guilherme Dias Cavalheri 👋
 
 🪧 (Portuguese-BR) (English)
 
-🎓 Classe: Estudante de Engenharia da Computação (4º semestre - PUC Campinas)
+🎓 Classe: Estudante de Engenharia da Computação (6º semestre - PUC Campinas)
 
-💻 Habilidades: HTML | CSS | JavaScript | Python | Java | C | Assembly | VHDL | Python | PostegreSQL
+💻 Habilidades: HTML | CSS | JavaScript | Python | Java | C | Assembly | VHDL | Python | PostegreSQL |  SQL Oracle
 
 🏆 Missão Atual: Evoluir como Dev Full Stack e criar sistemas web eficientes
 
